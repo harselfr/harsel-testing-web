@@ -1,4 +1,4 @@
-$ git clone https://github.com/harselfr/harsel-website.git
+$ git clone https://harselfr.github.io/harsel-website/
 $ git add index.html
 $ git commit -m "Initialize website"
 $ git push origin main
